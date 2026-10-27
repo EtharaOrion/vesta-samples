@@ -99,3 +99,9 @@ samples/
 ## License
 
 Released under the [MIT License](LICENSE). © 2026 Ethara.AI.
+
+---
+
+## Copyright
+
+Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
